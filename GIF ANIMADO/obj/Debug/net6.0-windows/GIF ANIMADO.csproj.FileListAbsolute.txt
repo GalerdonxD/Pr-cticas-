@@ -1,0 +1,17 @@
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\bin\Debug\net6.0-windows\GIF ANIMADO.exe
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\bin\Debug\net6.0-windows\GIF ANIMADO.deps.json
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\bin\Debug\net6.0-windows\GIF ANIMADO.runtimeconfig.json
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\bin\Debug\net6.0-windows\GIF ANIMADO.dll
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\bin\Debug\net6.0-windows\GIF ANIMADO.pdb
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\obj\Debug\net6.0-windows\GIF_ANIMADO.GIF.resources
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\obj\Debug\net6.0-windows\GIF_ANIMADO.Properties.Resources.resources
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\obj\Debug\net6.0-windows\GIF ANIMADO.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\obj\Debug\net6.0-windows\GIF ANIMADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\obj\Debug\net6.0-windows\GIF ANIMADO.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\obj\Debug\net6.0-windows\GIF ANIMADO.AssemblyInfo.cs
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\obj\Debug\net6.0-windows\GIF ANIMADO.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\obj\Debug\net6.0-windows\GIF ANIMADO.dll
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\obj\Debug\net6.0-windows\refint\GIF ANIMADO.dll
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\obj\Debug\net6.0-windows\GIF ANIMADO.pdb
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\obj\Debug\net6.0-windows\GIF ANIMADO.genruntimeconfig.cache
+C:\Users\Alumnos\Desktop\visual estudio\GIF ANIMADO\obj\Debug\net6.0-windows\ref\GIF ANIMADO.dll
